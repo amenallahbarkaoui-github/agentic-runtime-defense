@@ -1,6 +1,6 @@
 # Agentic Runtime Defense
 
-**Research proposal · Draft v0.2 · 27 November 2026**  
+**Research proposal · Draft v0.2 · 21 November 2026**  
 **Author** · Amenallah Barkaoui
 
 Agentic Runtime Defense is a proposed system for detecting, investigating and containing cyberattacks **while they are in progress**. It is designed for environments where automated attackers can act faster than a human team can investigate. The defender follows live activity across applications, identities, hosts and network connections. Its decisions depend on observed behavior, whether the attacker is human or automated.
